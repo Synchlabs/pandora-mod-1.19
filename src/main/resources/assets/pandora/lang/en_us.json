@@ -1,5 +1,11 @@
 {
+  // Ttems
   "item.pandora.unobtanium_fragment": "Unobtanium Fragment",
 
-  "itemGroup.pandora.pandora_items": "Pandora Items"
+  // Blocks
+  "block.pandora.unobtanium_ore": "Unobtanium Ore",
+
+  // Item Groups
+  "itemGroup.pandora.pandora_items": "Pandora Items",
+  "itemGroup.pandora.pandora_blocks": "Pandora Blocks"
 }
