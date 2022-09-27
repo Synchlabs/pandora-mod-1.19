@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Pandora
 
-## Setup
+## Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Pandora aims to add the beautiful moon of the same name, from the film Avatar, as an additional dimension in minecraft. 
+With this dimension comes new mechanics, wood types, biomes, mobs, building blocks, and much more. Mod is currently in pre-alpha. 
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT License.
