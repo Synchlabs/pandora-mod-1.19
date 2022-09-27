@@ -7,4 +7,5 @@ With this dimension comes new mechanics, wood types, biomes, mobs, building bloc
 
 ## License
 
-This mod is available under the MIT License.
+This mod is available under the CC BY-NC-SA 4.0 license. You may share and adapt the mod in any way you like, however proper attribution (credit) must be given,
+and no commerical use of this mod may be made. Additionally, any remixed or adapted version of this mod you may produce must adhere to this same license. 
