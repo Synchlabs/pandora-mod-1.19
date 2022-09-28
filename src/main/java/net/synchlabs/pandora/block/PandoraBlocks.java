@@ -13,8 +13,11 @@ import net.synchlabs.pandora.PandoraMod;
 import net.synchlabs.pandora.item.PandoraItemGroup;
 
 public class PandoraBlocks {
-    public static final Block UNOBTANIUM_ORE = registerBlock("unobtanium_ore",
+    public static final Block END_UNOBTANIUM_ORE = registerBlock("end_unobtanium_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(), UniformIntProvider.create(9, 22)), PandoraItemGroup.PANDORA_BLOCKS);
+
+    public static final Block UNOBTANIUM_ORE = registerBlock("unobtanium_ore",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(3f).requiresTool(), UniformIntProvider.create(9, 22)), PandoraItemGroup.PANDORA_BLOCKS);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
         registerBlockItem(name, block, tab);

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "pandora:end_unobtanium_ore",
     "pandora:unobtanium_ore"
   ]
 }

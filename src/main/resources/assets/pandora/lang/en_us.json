@@ -4,6 +4,7 @@
 
   // Blocks
   "block.pandora.unobtanium_ore": "Unobtanium Ore",
+  "block.pandora.end_unobtanium_ore": "End Unobtanium Ore",
 
   // Item Groups
   "itemGroup.pandora.pandora_items": "Pandora Items",
